@@ -1,5 +1,5 @@
 
-# Iris Data Classification using Python
+# Books Recommender System using Python
 Libraries: sklearn, numpy, pandas, pickle
 
 Algorithms:
